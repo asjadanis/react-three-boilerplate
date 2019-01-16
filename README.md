@@ -20,7 +20,8 @@ npm start <br>
 
 1) https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene <br>
 2) https://www.pandaqi.com/Games/overview/Threejs <br>
-3) https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+3) https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/ <br>
+4) https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial
 
 ### `npm start`
 
